@@ -1,0 +1,90 @@
+Q1.   Comment the second Paragraph element of the following HTML Document.
+Ans.   <!DOCTYPE html>
+       <html>
+       <head>
+       <title>HTML page</title>
+       </head>
+       <body>
+       <p> HTML Tutorial </p>
+       <p> Python Tutorial </p>
+       <p> PHP Tutorial </p>
+       </body>
+       </html>
+Ans.  <!-- It's a Paragraph Element-->
+
+Q2.   Represent your Residental adders on HTML Document.
+Ans.   <!DOCTYPE html>
+       <head>
+       <title> Rajeev Adders </title>
+       <body>
+       <h1> RAJEEV GUPTA</h1>
+       <h3> Google</h3>
+       <p> Patna City</p>
+       <p> Con.Nu. 1203655</p>
+       <p> Gmail abc@gmail.com</p>
+       </head>
+       </html> 
+       
+Q3.   Convert Your HTML document in Music file.
+Ans.   <!DOCTYPE html>
+       <html>
+       <head>
+       <title> Devote Song</title>
+       </head>
+       <body>
+       <audio controls>
+             <source src="Om_Shiv_Om_Shiv_Paratpara_Shiv__-__Shiv_Dhun_(_Shiv_Mantra_)_By_Anuradha_Paudwal(256k).mp3" type="audio/mpeg">
+              </source>
+       </audio>
+       </body>
+       </html>
+       
+  Q4.   Convert your HTML document into video player.
+  Ans.   <!DOCTYPE HTML>
+         <html lang="en>
+         <head>
+         
+         <title>
+          video </title>
+          <body>
+            <video control>
+            <source src="video_20211121_121850.mp4" type="video"/mp4>
+            </video>
+            </body>
+            </html>
+
+    Q5.   Embed python swap program in html document.
+  Ans.      
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       <audio
