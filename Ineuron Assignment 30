@@ -52,9 +52,93 @@ Ans.   <!DOCTYPE html>
             </video>
             </body>
             </html>
+Q5.   Embed python swap program in html document.
+Ans.  
 
-    Q5.   Embed python swap program in html document.
-  Ans.      
+Q6.   Create a Paragraph summariser, where you can toogle between hide and view option.
+Ans.   
+
+Q7.    Embed Youtube video URL on html document.
+Ans.    <!DOCTYPR html>
+        <html lang="en">
+        <head>
+        <title>URL </title>
+        </head>
+        <body>
+        <a href="https://www.youtube.com/watch?v=1LbXOLyzlSg">see the video</a>
+        </body>
+        </html>
+        
+Q8.   Craete a Registration form for a hackthon (include form validation).
+Ans.   <!DOCTYPE html>
+       <html lang="en">
+       <head>
+       <title>form Validation</title>
+       </head>
+       <body bgcolor=red>
+       <center><h1>HACKTHON 4.0 Registration Form</h1>
+       <h2> This * field are mandatory.</h2>
+       <form>
+            Name*<input type="text" required><br></br></input>
+            Email*<input type="text" required><br></br></input>
+            Mobile*<input type="text" required><br></br></input>
+            Education*<input type="text" required><br></br></input>
+            Stream*<input type="text" required ><br></br></input>
+
+            TeamName*<input type="text" required><br></br></input>
+            University*<input type="text" required><br></br></input>
+
+            NameTeam Member1<input type="text"><br></br></input>
+            NameTeamMember2<input type="text"><br></br></input>
+            NameTeamMember3<input type="text"><br></br></input>
+
+            EmailTeamMember1<input type="text"><br></br></input>
+            EmailTeamMember2<input type="text"><br></br></input>
+            EmailTeamMember3<input type="text"><br></br></input>
+            EmailTeamMember4<input type="text"><br></br></input>
+
+
+            MobileTeamMember1<input type="text"><br></br></input>
+            MobileTeamMember2<input type="text"><br></br></input>
+            MobileTeamMember3<input type="text"><br></br></input>
+            MobileTeamMember4<input type="text"><br></br></input>
+
+           </form>
+           </center>
+          </body>
+          </html>
+          
+Q9.  Suppose you just wrote your own book.create a website that user easily can download your book on his/her system.  
+Ans.   <!DOCTYPE html>
+       <html lang="en">
+       <head>
+        <title>Book</title>
+      </head>
+       <body>
+          <center><h1>Harry_Potter_Book</h1></center>
+
+         <a href="c:\All download\mybook.pdf" download>DOWNLOAD BOOK</a>
+      </body>
+      </html>
+
+Q10. Convert your html document into phone call Application. 
+Ans.   <!DOCTYPE html>
+        <html lang="en">
+        <head>
+        <title>Phone Call Application</title>
+        </head>
+        <body>
+        <h1>Phone Call Application</h1>
+        <input type="mobile" placeholder="Dial Yur Number">
+        <input type="submit" value="call">
+        <input type="submit" value="reset">
+        <input type="submit" value="Redial">
+        <inout type="submit" value="ContactList">
+        </body>
+        </html>
+        
+Q11.  Convert your html document in EMAIL.
+Ans.   
        
        
        
